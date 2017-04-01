@@ -1,6 +1,8 @@
 Github-Falcor
 =============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/github-falcor.svg)](https://greenkeeper.io/)
+
 FalcorJS server for Github API
 
 ### Testing
